@@ -1,0 +1,111 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    background-color: black;
+    color: white;
+    
+} 
+
+.homeNav {
+    padding: 10px 0px;
+}
+
+
+.homeul {
+   list-style: none;
+   display: flex;
+   justify-content: center;
+   gap: 30px;
+   padding-top: 15px;
+  
+}
+
+.homeli {
+    width: auto;
+    height: 30px;
+    text-decoration:  none;
+    display: inline;
+}
+
+.homea {
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    font-weight: 600;
+    padding: 8px 10px;
+    border-radius:5px;
+}
+
+/* sport section */
+
+.LeftDiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left:20px;
+    gap: 30px;
+}
+
+.leftContent {
+    flex: 1;
+}
+
+
+.lefth {
+    font-size: 26px;
+    font-weight: 700;
+    padding-left: 10px;
+}
+
+.leftp {
+   width: 90vh;
+   height: auto;
+   padding-top: 15px;
+   padding-left: 10px;
+}
+
+.leftimg {
+   display: flex;
+   justify-self: right;
+   border-radius: 10px;
+   object-fit:fill;
+   padding-top: 10px;
+   position: relative;
+   top: 40px;
+   right: 30px;
+
+}
+
+
+/* Benefit container */
+
+.benefith3 {
+    position: relative;
+    top: 95px;
+    left: 30px;
+    font-size: 30px;
+}
+
+.benefitdiv1 {
+    width: 1450px;
+    display: flex;
+    justify-content: center;
+    margin-top: 110px;
+    margin-bottom: -50px;    
+}
+
+.benefitdiv1 p {
+    width: 320px;
+    position: relative;
+    right: 300px;
+}
+
+.benefitdiv1 div {
+   margin-top: 35px;
+   width: 440px;
+   position: relative;
+   right: 600px;
+}
+
+
+

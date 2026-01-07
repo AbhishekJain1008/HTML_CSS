@@ -1,0 +1,207 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+
+img {
+    position: relative;
+    width: 550px;
+    left: 850px;
+    top: 40px;
+}
+
+.oudoor_div1 {
+    position: relative;
+    bottom: 500px;
+    width: 550px;
+}
+
+h2{
+    position: relative;
+    bottom: 530px;
+    width: 400px;
+    margin-left: 12px;
+}
+
+.oudoor_div1 p {
+    position: relative;
+    margin-left: 40px;
+}
+
+.outdoor_div2{
+    margin-top: 55px;
+}
+
+.outdoor_div2 p {
+    position: relative;
+    bottom: 505px;
+    width: 530px;
+    margin-left: 40px;
+}
+
+.outdoor_div3 {
+    margin-top: 55px;
+    height: 150px;
+}
+
+
+.outdoor_div3 li {
+    position: relative;
+    bottom: 505px;
+    margin-left: 40px;
+    width: 350px;
+}
+
+
+/* Types section (Cricket layout) */
+.outdoor_div4 {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 40px;
+    position: relative;
+    bottom: 420px;
+    width:auto;
+}
+
+.outdoor_div4 h2 {
+    position: relative;
+    right: 32px;
+    margin-top: 450px;
+    
+
+}
+
+
+
+/* Cricket content on left */
+
+
+.cricketp {
+    position: relative;
+    bottom: 450px;
+    width: 550px;
+    margin-left: 25px;
+    margin-bottom: 15px;
+}
+
+.circket_div {
+    flex: 1;
+    margin-top: 25px;
+    position: relative;
+    top: 350px;
+    right: 775px;
+}
+
+.circket_div h3 {
+    position: relative;
+    bottom: 450px;
+    margin-top: 36px;
+    width: 250px;
+}
+
+.circket_div h4{
+   position: relative;
+   bottom: 430px;
+   margin-top: 10px;
+   margin-left: 50px;
+   width: 250px;
+    
+}
+
+.circket_div li {
+    position: relative;
+    bottom: 423px;
+    width: 290px;
+    padding-top:12px;
+    margin-left: 60px;
+    padding-bottom: 10px;
+}
+
+.cricketimg {
+    position: relative;
+    left: 600px;
+
+    height: 500px;
+    border-radius:15px ;
+}
+
+.heading3 {
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+
+
+/* Lists */
+ul {
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
