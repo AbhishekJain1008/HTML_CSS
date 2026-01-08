@@ -7,7 +7,14 @@ git status -> show curr status of the file
 // push steps: 
 
 1. git add file_name / add . -> add one file or all files.
+
+before commit you require to give your email and the username if you use the git for the first time use the following command
+
+i. git config --global user.email "yourEmail@example.com"
+ii. git config --global user.name "your username on the git account".
+
 2. git commit -m "message". -> message in string format
-3.
+3. git push
+
 
 
