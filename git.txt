@@ -1,0 +1,13 @@
+
+git clone url -> clone the url in the Local machine
+code . -> open the repo into the vs code.
+
+git status -> show curr status of the file
+
+// push steps: 
+
+1. git add file_name / add . -> add one file or all files.
+2. git commit -m "message". -> message in string format
+3.
+
+
