@@ -11,10 +11,12 @@ git status -> show curr status of the file
 before commit you require to give your email and the username if you use the git for the first time use the following command
 
 i. git config --global user.email "yourEmail@example.com"
-ii. git config --global user.name "your username on the git account".
+ii. git config --global user.name "your username on the git account / or you can write your name also".
 
 2. git commit -m "message". -> message in string format
 3. git push
 
+
+when you use add command then the file from the local machine goes into the "Staging area" then commit the changes into the "Staging area" and then when you use the push command then the file in the "Staging area" goes into the git Repositery.
 
 
